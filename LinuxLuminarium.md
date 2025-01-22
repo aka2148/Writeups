@@ -3,7 +3,7 @@
 ## 1. The root
 basic /pwn command to be run and flag is found
 
-## 2.
+## 2. Program and Absolute Paths
 simply run /challenge/run to get the flag
 
 ## 3. Position thyself
